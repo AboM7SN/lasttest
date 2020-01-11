@@ -18,12 +18,12 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : i1Suhaib`);
+      console.log(`Desert Bot- Script By : Rw8an`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : Rw8an ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Abdulmohsen`,"https://www.twitch.tv/iiabdulmohsen")
+client.user.setGame(`Rw8an`,"https://www.twitch.tv/iiabdulmohsen")
 client.user.setStatus("dnd")
 });
 
